@@ -1,0 +1,9 @@
+.titulo{
+    color:blueviolet;
+    font-size: 30px;
+};
+.completada{
+    color: green;
+    text-decoration: line-through;
+    opacity: 0.5;
+};

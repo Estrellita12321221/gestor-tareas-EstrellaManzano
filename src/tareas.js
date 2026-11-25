@@ -1,5 +1,5 @@
 export function contarPendientes(tareas) {
-  return tareas.filter((tarea) => !tarea.completada).length;
+  return tareas.filter((tarea) => tarea.completada===false).length;
 }
 
 export function contarCompletadas(tareas) {
