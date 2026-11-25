@@ -1,9 +1,7 @@
-.titulo{
-    color:blueviolet;
-    font-size: 30px;
-};
-.completada{
+.aprobado {
     color: green;
-    text-decoration: line-through;
-    opacity: 0.5;
-};
+}
+
+.suspenso {
+    color: red;
+}
